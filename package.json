@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-json-transformer-example",
+  "description": "Gatsby json transformer example",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "latest",
+    "gatsby-link": "latest",
+    "gatsby-source-filesystem": "latest",
+    "gatsby-transformer-json": "latest"
+  }
+}
